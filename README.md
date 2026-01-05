@@ -1,6 +1,6 @@
 # Hi there, I'm Chathumi! 👋
 
-### 🎓 Undergraduate Student | Aspiring Software Developer
+### 🎓 Undergraduate Student  | Aspiring Software Developer
 I am a passionate developer currently working on web applications using **MERN Stack**, **Java**, and **PHP**.
 
 ---
@@ -19,5 +19,5 @@ I am a passionate developer currently working on web applications using **MERN S
 ---
 
 ### 📫 Connect with me
-* 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/chathumi-hewamaramage-a65719267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+* 💼 [LinkedIn]https://www.linkedin.com/in/chathumi-hewamaramage-a65719267/
 * 📧 Email: chathuhewamaramage@gmail.com
