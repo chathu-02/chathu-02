@@ -7,8 +7,8 @@ I am a passionate developer currently working on web applications using **MERN S
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Java, PHP, JavaScript
-* **Web:** React.js, Node.js, HTML, CSS
-* **Databases:** MongoDB, MySQL
+* **Web:** React.js,Next.js, Node.js, HTML, CSS
+* **Databases:** MongoDB, MySQL,Supabase
 * **Architecture:** MVC Pattern
 
 ### 🚀 Key Projects
