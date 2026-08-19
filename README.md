@@ -27,25 +27,15 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathu-02&show_icons=true&theme=transparent&hide_border=false&border_color=032B1E&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathu-02&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,nodejs,express,mongodb,supabase,java,python&theme=dark" alt="Tech Stack" />
-</p>
-
 <h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathu-02&show_icons=true&theme=transparent&hide_border=false&border_color=032B1E&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathu-02&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
