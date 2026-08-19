@@ -5,7 +5,11 @@
 </h1>
 
 <p align="center">
-  Passionate about building seamless user experiences and writing  automated tests. 
+  <p align="center">
+  <a href="https://github.com/Readme-Workflows/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B38B4D&center=true&vCenter=true&width=900&lines=Passionate+about+building+seamless+user+experiences+and+writing+automated+tests." alt="Typing SVG" />
+  </a>
+</p>
 </p>
 
 ---
@@ -36,7 +40,7 @@
   </a>
 </p>
 
-
+-----
 
 
 
@@ -58,7 +62,7 @@
 
 
 
-
+-----------
 
 
  🚀 Key Projects
