@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Passionate about building seamless user experiences and writing robust automated tests. 
+  Passionate about building seamless user experiences and writing  automated tests. 
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=false&border_color=032B1E&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chathu-02&show_icons=true&theme=transparent&hide_border=false&border_color=032B1E&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyage-username&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathu-02&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 
