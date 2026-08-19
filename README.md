@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+  ### 👨‍💻 About Me
 
 - 🎓 IT Undergraduate currently studying at SLIIT.
 - 💼 Working as a Full-Stack Developer Intern.
@@ -18,6 +18,11 @@
 - 🎨 Design enthusiast favoring minimalist, dark-themed, and modern UI/UX aesthetics.
 
 ----
+
+
+
+
+
 <h3 align="center">📫 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/chathumi-hewamaramage-a65719267/" target="_blank">
@@ -30,6 +35,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=00FFFF" alt="Portfolio" />
   </a>
 </p>
+
+
+
+
 
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
@@ -53,9 +62,11 @@
 
 
  🚀 Key Projects
- ***[Aura Gem ](https://github.com/chathu-02/e-commerce-website)Live link(https://aura-gem-store-final.onrender.com/)** - MERN Stack 
+
+ 
+
 * **[Salon LAARO](https://github.com/chathu-02/Salon-Management-System)** - MERN Stack Management System
-* **[Recruitment System](https://github.com/chathu-02/Recruitment-System)** - PHP based recruitment platform
+* **[Aura Gem ](https://github.com/chathu-02/e-commerce-website)Live link(https://aura-gem-store-final.onrender.com/)** - MERN Stack 
 * **[TunKart](https://github.com/chathu-02/TunKart-Music-Platform)** - Java-based online music store
 
 ---
