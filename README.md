@@ -17,7 +17,19 @@
 - 🚀 Deeply interested in automated testing using Playwright to ensure high-performing web applications.
 - 🎨 Design enthusiast favoring minimalist, dark-themed, and modern UI/UX aesthetics.
 
----
+----
+<h3 align="center">📫 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chathumi-hewamaramage-a65719267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chathuhewamaramage@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" />
+  </a>
+  <a href="https://chathumi-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=00FFFF" alt="Portfolio" />
+  </a>
+</p>
 
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
@@ -26,29 +38,25 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
 
+<h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
+  <!-- Dewani card eka: Meken pennanne Streak eka (Meke link eka github-readme-streak-stats.herokuapp.com) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathu-02&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 
-<h3 align="center">My GitHub Stats</h3>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathu-02&theme=dark&background=000000&border=032B1E&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=ffffff" alt="GitHub Streak" />
-</p>
+
 
 
  🚀 Key Projects
+ ***[Aura Gem ](https://github.com/chathu-02/e-commerce-website)Live link(https://aura-gem-store-final.onrender.com/)** - MERN Stack 
 * **[Salon LAARO](https://github.com/chathu-02/Salon-Management-System)** - MERN Stack Management System
 * **[Recruitment System](https://github.com/chathu-02/Recruitment-System)** - PHP based recruitment platform
 * **[TunKart](https://github.com/chathu-02/TunKart-Music-Platform)** - Java-based online music store
 
 ---
 
- 📫 Connect with me
-* 💼 [LinkedIn]https://www.linkedin.com/in/chathumi-hewamaramage-a65719267/
-* 📧 Email: chathuhewamaramage@gmail.com
